@@ -35,6 +35,7 @@
 # If you have any questions about this script, please contact Peiyuan (Ran) Huang (peiyuan.huang@bristol.ac.uk) and cc Dr Gemma Sharp (g.c.sharp@exeter.ac.uk).
 
 # Update on 2023/08/08: No longer consider semi-vegetarian as a vegetarian subgroup (see changes in Lines 228-250)
+# Update on 2024/08/01: Apply DMR analysis to all four models (see changes in Section "Differentially Methylated Regions (DMR)")
 
 ################################################################################
 
@@ -48,7 +49,7 @@ library(tableone)
 library(matrixStats)
 library(limma)
 library(data.table)
-library(plyr)
+library(tidyverse)
 library(sva)
 library(qqman)
 library(dmrff)
