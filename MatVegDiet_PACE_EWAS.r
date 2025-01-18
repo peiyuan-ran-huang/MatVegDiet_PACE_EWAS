@@ -3,7 +3,7 @@
 #                           EWAS Analysis Plan Code                            #
 #------------------------------------------------------------------------------#
 #                             Peiyuan (Ran) Huang                              #
-#                                 August 2024                                  #
+#                           Last update: August 2024                           #
 #         Acknowledgements: Gemma Sharp, Leanne Kupers, Giulia Mancano         #
 ################################################################################
 
